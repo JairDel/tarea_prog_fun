@@ -1,0 +1,723 @@
+[
+    {
+      "clave": "01",
+      "descripcion": "Manzana",
+      "precio": 4.0,
+      "clasificación": "Alimentos",
+      "existencia": 30,
+      "existencia_minima": 10,
+      "existencia_maxima": 50
+    },
+    {
+      "clave": "02",
+      "descripcion": "Durazno",
+      "precio": 5.50,
+      "clasificación": "Alimentos",
+      "existencia": 25,
+      "existencia_minima": 10,
+      "existencia_maxima": 50
+    },
+    {
+      "clave": "03",
+      "descripcion": "Platano",
+      "precio": 8.35,
+      "clasificación": "Alimentos",
+      "existencia": 32,
+      "existencia_minima": 10,
+      "existencia_maxima": 60
+    },
+    {
+      "clave": "04",
+      "descripcion": "Aguacate",
+      "precio": 10.50,
+      "clasificación": "Alimentos",
+      "existencia": 8,
+      "existencia_minima": 10,
+      "existencia_maxima": 30
+    },
+    {
+      "clave": "05",
+      "descripcion": "Chile",
+      "precio": 2.90,
+      "clasificación": "Alimentos",
+      "existencia": 34,
+      "existencia_minima": 5,
+      "existencia_maxima": 50
+    },
+    {
+        "clave": "06",
+        "descripcion": "Lechuga",
+        "precio": 8.50,
+        "clasificación": "Alimentos",
+        "existencia": 12,
+        "existencia_minima": 10,
+        "existencia_maxima": 35
+    },
+    {
+        "clave": "07",
+        "descripcion": "Pera",
+        "precio": 7.94,
+        "clasificación": "Alimentos",
+        "existencia": 24,
+        "existencia_minima": 10,
+        "existencia_maxima": 45
+    },
+    {
+        "clave": "08",
+        "descripcion": "Aceite",
+        "precio": 23.43,
+        "clasificación": "Alimentos",
+        "existencia": 20,
+        "existencia_minima": 15,
+        "existencia_maxima": 25
+    },
+    {
+        "clave": "09",
+        "descripcion": "Cosome",
+        "precio": 9.99,
+        "clasificación": "Alimentos",
+        "existencia": 23,
+        "existencia_minima": 3,
+        "existencia_maxima": 30
+    },
+    {
+        "clave": "10",
+        "descripcion": "Crema de cacahuate",
+        "precio": 24.62,
+        "clasificación": "Alimentos",
+        "existencia": 12,
+        "existencia_minima": 10,
+        "existencia_maxima": 35
+    }, 
+    {
+        "clave": "11",
+        "descripcion": "Crema para cafe",
+        "precio": 35.99,
+        "clasificación": "Alimentos",
+        "existencia": 24,
+        "existencia_minima": 5,
+        "existencia_maxima": 50
+      },
+      {
+        "clave": "12",
+        "descripcion": "Leche",
+        "precio": 12.99,
+        "clasificación": "Alimentos",
+        "existencia": 7,
+        "existencia_minima": 10,
+        "existencia_maxima": 60
+      },
+      {
+        "clave": "13",
+        "descripcion": "Atole",
+        "precio": 8.35,
+        "clasificación": "Alimentos",
+        "existencia": 32,
+        "existencia_minima": 10,
+        "existencia_maxima": 60
+      },
+      {
+        "clave": "14",
+        "descripcion": "Avena",
+        "precio": 12.50,
+        "clasificación": "Alimentos",
+        "existencia": 7,
+        "existencia_minima": 3,
+        "existencia_maxima": 30
+      },
+      {
+        "clave": "15",
+        "descripcion": "Azucar",
+        "precio": 2.90,
+        "clasificación": "Alimentos",
+        "existencia": 23,
+        "existencia_minima": 5,
+        "existencia_maxima": 40
+      },
+      {
+          "clave": "16",
+          "descripcion": "Cafe",
+          "precio": 54.50,
+          "clasificación": "Alimentos",
+          "existencia": 12,
+          "existencia_minima": 10,
+          "existencia_maxima": 30
+      },
+      {
+          "clave": "17",
+          "descripcion": "Cereal",
+          "precio": 34.94,
+          "clasificación": "Alimentos",
+          "existencia": 13,
+          "existencia_minima": 5,
+          "existencia_maxima": 30
+      },
+      {
+          "clave": "18",
+          "descripcion": "Harina",
+          "precio": 12.24,
+          "clasificación": "Alimentos",
+          "existencia": 15,
+          "existencia_minima": 3,
+          "existencia_maxima": 56
+      },
+      {
+          "clave": "19",
+          "descripcion": "Mole",
+          "precio": 9.99,
+          "clasificación": "Alimentos",
+          "existencia": 56,
+          "existencia_minima": 2,
+          "existencia_maxima": 84
+      },
+      {
+          "clave": "20",
+          "descripcion": "Sal",
+          "precio": 12.99,
+          "clasificación": "Alimentos",
+          "existencia": 3,
+          "existencia_minima": 2,
+          "existencia_maxima": 67
+      },
+      {
+        "clave": "21",
+        "descripcion": "Cajeta",
+        "precio": 24.23,
+        "clasificación": "Alimentos",
+        "existencia": 12,
+        "existencia_minima": 2,
+        "existencia_maxima": 70
+      },
+      {
+        "clave": "22",
+        "descripcion": "Catsup",
+        "precio": 8.50,
+        "clasificación": "Alimentos",
+        "existencia": 13,
+        "existencia_minima": 10,
+        "existencia_maxima": 40
+      },
+      {
+        "clave": "23",
+        "descripcion": "Mayonesa",
+        "precio": 12.99,
+        "clasificación": "Alimentos",
+        "existencia": 7,
+        "existencia_minima": 3,
+        "existencia_maxima": 35
+      },
+      {
+        "clave": "24",
+        "descripcion": "Mermelada",
+        "precio": 30.42,
+        "clasificación": "Alimentos",
+        "existencia": 24,
+        "existencia_minima": 10,
+        "existencia_maxima": 30
+      },
+      {
+        "clave": "25",
+        "descripcion": "MIel",
+        "precio": 45.60,
+        "clasificación": "Alimentos",
+        "existencia": 56,
+        "existencia_minima": 5,
+        "existencia_maxima": 70
+      },
+      {
+          "clave": "26",
+          "descripcion": "Te",
+          "precio": 8.50,
+          "clasificación": "Alimentos",
+          "existencia": 4,
+          "existencia_minima": 3,
+          "existencia_maxima": 34
+      },
+      {
+          "clave": "27",
+          "descripcion": "Vinagre",
+          "precio": 25.94,
+          "clasificación": "Alimentos",
+          "existencia": 13,
+          "existencia_minima": 10,
+          "existencia_maxima": 45
+      },
+      {
+          "clave": "28",
+          "descripcion": "Huevo",
+          "precio": 60.45,
+          "clasificación": "Alimentos",
+          "existencia": 7,
+          "existencia_minima": 6,
+          "existencia_maxima": 30
+      },
+      {
+          "clave": "29",
+          "descripcion": "Pastas",
+          "precio": 9.99,
+          "clasificación": "Alimentos",
+          "existencia": 43,
+          "existencia_minima": 12,
+          "existencia_maxima": 64
+      },
+      {
+          "clave": "30",
+          "descripcion": "Gelatina",
+          "precio": 12.00,
+          "clasificación": "Alimentos",
+          "existencia": 12,
+          "existencia_minima": 10,
+          "existencia_maxima": 20
+      },
+      {
+        "clave": "31",
+        "descripcion": "Pan",
+        "precio": 2.99,
+        "clasificación": "Alimentos",
+        "existencia": 25,
+        "existencia_minima": 5,
+        "existencia_maxima": 50
+      },
+      {
+        "clave": "32",
+        "descripcion": "Frijoles",
+        "precio": 3.49,
+        "clasificación": "Alimentos",
+        "existencia": 40,
+        "existencia_minima": 15,
+        "existencia_maxima": 60
+      },
+      {
+        "clave": "33",
+        "descripcion": "Sopa enlatada",
+        "precio": 12.99,
+        "clasificación": "Alimentos",
+        "existencia": 18,
+        "existencia_minima": 10,
+        "existencia_maxima": 30
+      },
+      {
+        "clave": "34",
+        "descripcion": "Pollo",
+        "precio": 7.99,
+        "clasificación": "Alimentos",
+        "existencia": 12,
+        "existencia_minima": 5,
+        "existencia_maxima": 25
+      },
+      {
+        "clave": "35",
+        "descripcion": "Pan tostado",
+        "precio": 4.99,
+        "clasificación": "Alimentos",
+        "existencia": 22,
+        "existencia_minima": 10,
+        "existencia_maxima": 40
+      },
+      {
+        "clave": "36",
+        "descripcion": "Papas",
+        "precio": 13.32,
+        "clasificación": "Alimentos",
+        "existencia": 32,
+        "existencia_minima": 15,
+        "existencia_maxima": 50
+      },
+      {
+        "clave": "37",
+        "descripcion": "Yogur",
+        "precio": 10.15,
+        "clasificación": "Alimentos",
+        "existencia": 20,
+        "existencia_minima": 10,
+        "existencia_maxima": 40
+      },
+      {
+        "clave": "38",
+        "descripcion": "Naranjas",
+        "precio": 20.32,
+        "clasificación": "Alimentos",
+        "existencia": 28,
+        "existencia_minima": 15,
+        "existencia_maxima": 50
+      },
+      {
+        "clave": "39",
+        "descripcion": "Carne molida",
+        "precio": 9.99,
+        "clasificación": "Alimentos",
+        "existencia": 14,
+        "existencia_minima": 10,
+        "existencia_maxima": 25
+      },
+      {
+        "clave": "40",
+        "descripcion": "Cebollas",
+        "precio": 12.32,
+        "clasificación": "Alimentos",
+        "existencia": 25,
+        "existencia_minima": 10,
+        "existencia_maxima": 40
+      },
+      {
+        "clave": "41",
+        "descripcion": "Pescado",
+        "precio": 34.52,
+        "clasificación": "Alimentos",
+        "existencia": 8,
+        "existencia_minima": 5,
+        "existencia_maxima": 15
+      },
+      {
+        "clave": "42",
+        "descripcion": "Queso cheddar",
+        "precio": 6.99,
+        "clasificación": "Alimentos",
+        "existencia": 22,
+        "existencia_minima": 10,
+        "existencia_maxima": 40
+      },
+      {
+        "clave": "43",
+        "descripcion": "Queso",
+        "precio": 7.99,
+        "clasificación": "Alimentos",
+        "existencia": 12,
+        "existencia_minima": 10,
+        "existencia_maxima": 40
+      },
+      {
+        "clave": "44",
+        "descripcion": "Lentejas",
+        "precio": 3.25,
+        "clasificación": "Alimentos",
+        "existencia": 20,
+        "existencia_minima": 10,
+        "existencia_maxima": 30
+      },
+      {
+        "clave": "45",
+        "descripcion": "Maíz",
+        "precio": 1.75,
+        "clasificación": "Alimentos",
+        "existencia": 24,
+        "existencia_minima": 10,
+        "existencia_maxima": 40
+      },
+      {
+        "clave": "46",
+        "descripcion": "Mango",
+        "precio": 24.23,
+        "clasificación": "Alimentos",
+        "existencia": 30,
+        "existencia_minima": 15,
+        "existencia_maxima": 50
+      },
+      {
+        "clave": "47",
+        "descripcion": "Galletas",
+        "precio": 30.21,
+        "clasificación": "Alimentos",
+        "existencia": 25,
+        "existencia_minima": 10,
+        "existencia_maxima": 40
+      },
+      {
+        "clave": "48",
+        "descripcion": "Jugo de naranja",
+        "precio": 15.21,
+        "clasificación": "Alimentos",
+        "existencia": 20,
+        "existencia_minima": 10,
+        "existencia_maxima": 30
+      },
+      {
+        "clave": "49",
+        "descripcion": "Pan integral",
+        "precio": 18.13,
+        "clasificación": "Alimentos",
+        "existencia": 16,
+        "existencia_minima": 10,
+        "existencia_maxima": 30
+      },
+      {
+        "clave": "50",
+        "descripcion": "Chocolate",
+        "precio": 17.82,
+        "clasificación": "Alimentos",
+        "existencia": 22,
+        "existencia_minima": 10,
+        "existencia_maxima": 40
+      },
+      {
+        "clave": "51",
+        "descripcion": "Jabón en barra",
+        "precio": 15.66,
+        "clasificación": "Limpieza",
+        "existencia": 40,
+        "existencia_minima": 10,
+        "existencia_maxima": 60
+      },
+      {
+        "clave": "52",
+        "descripcion": "Limpiavidrios",
+        "precio": 24.12,
+        "clasificación": "Limpieza",
+        "existencia": 25,
+        "existencia_minima": 10,
+        "existencia_maxima": 50
+      },
+      {
+        "clave": "53",
+        "descripcion": "Detergente para ropa",
+        "precio": 14.23,
+        "clasificación": "Limpieza",
+        "existencia": 30,
+        "existencia_minima": 15,
+        "existencia_maxima": 50
+      },
+      {
+        "clave": "54",
+        "descripcion": "Cepillo de dientes",
+        "precio": 34.20,
+        "clasificación": "Limpieza",
+        "existencia": 50,
+        "existencia_minima": 20,
+        "existencia_maxima": 80
+      },
+      {
+        "clave": "55",
+        "descripcion": "Desinfectante",
+        "precio": 35.99,
+        "clasificación": "Limpieza",
+        "existencia": 15,
+        "existencia_minima": 5,
+        "existencia_maxima": 30
+      },
+      {
+        "clave": "56",
+        "descripcion": "Escoba",
+        "precio": 250.80,
+        "clasificación": "Limpieza",
+        "existencia": 20,
+        "existencia_minima": 10,
+        "existencia_maxima": 40
+      },
+      {
+        "clave": "57",
+        "descripcion": "Trapeador",
+        "precio": 250.80,
+        "clasificación": "Limpieza",
+        "existencia": 22,
+        "existencia_minima": 10,
+        "existencia_maxima": 40
+      },
+      {
+        "clave": "58",
+        "descripcion": "Bolsas de basura",
+        "precio": 50.20,
+        "clasificación": "Limpieza",
+        "existencia": 35,
+        "existencia_minima": 15,
+        "existencia_maxima": 60
+      },
+      {
+        "clave": "59",
+        "descripcion": "Papel",
+        "precio": 7.99,
+        "clasificación": "Limpieza",
+        "existencia": 40,
+        "existencia_minima": 15,
+        "existencia_maxima": 60
+      },
+      {
+        "clave": "60",
+        "descripcion": "Desodorante",
+        "precio": 34.56,
+        "clasificación": "Limpieza",
+        "existencia": 28,
+        "existencia_minima": 10,
+        "existencia_maxima": 50
+      },
+      {
+        "clave": "61",
+        "descripcion": "Antitranspirante",
+        "precio": 40.23,
+        "clasificación": "Limpieza",
+        "existencia": 7,
+        "existencia_minima": 5,
+        "existencia_maxima": 50
+      },
+      {
+        "clave": "62",
+        "descripcion": "ESponja",
+        "precio": 3.50,
+        "clasificación": "Limpieza",
+        "existencia": 24,
+        "existencia_minima": 12,
+        "existencia_maxima": 35
+      },
+      {
+        "clave": "63",
+        "descripcion": "Shampoo",
+        "precio": 30.21,
+        "clasificación": "Limpieza",
+        "existencia": 32,
+        "existencia_minima": 20,
+        "existencia_maxima": 40
+      },
+      {
+        "clave": "64",
+        "descripcion": "Jabon liquido",
+        "precio": 23.95,
+        "clasificación": "Limpieza",
+        "existencia": 2,
+        "existencia_minima": 1,
+        "existencia_maxima": 20
+      },
+      {
+        "clave": "65",
+        "descripcion": "Jabon para trastes",
+        "precio": 25.74,
+        "clasificación": "Limpieza",
+        "existencia": 7,
+        "existencia_minima": 5,
+        "existencia_maxima": 24
+      },
+      {
+        "clave": "66",
+        "descripcion": "Limpiador multiusos",
+        "precio": 20.00,
+        "clasificación": "Limpieza",
+        "existencia": 18,
+        "existencia_minima": 10,
+        "existencia_maxima": 40
+      },
+      {
+        "clave": "67",
+        "descripcion": "Cepillo para inodoro",
+        "precio": 17.34,
+        "clasificación": "Limpieza",
+        "existencia": 25,
+        "existencia_minima": 10,
+        "existencia_maxima": 40
+      },
+      {
+        "clave": "68",
+        "descripcion": "Trapos",
+        "precio": 13.20,
+        "clasificación": "Limpieza",
+        "existencia": 40,
+        "existencia_minima": 20,
+        "existencia_maxima": 60
+      },
+      {
+        "clave": "69",
+        "descripcion": "Botes de basura",
+        "precio": 320.92,
+        "clasificación": "Limpieza",
+        "existencia": 30,
+        "existencia_minima": 15,
+        "existencia_maxima": 50
+      },
+      {
+        "clave": "70",
+        "descripcion": "Pañuelos desechables",
+        "precio": 2.25,
+        "clasificación": "Limpieza",
+        "existencia": 22,
+        "existencia_minima": 10,
+        "existencia_maxima": 40
+      },
+      {
+        "clave": "71",
+        "descripcion": "Toallas",
+        "precio": 150.25,
+        "clasificación": "Limpieza",
+        "existencia": 7,
+        "existencia_minima": 5,
+        "existencia_maxima": 15
+      },
+      {
+        "clave": "72",
+        "descripcion": "Camisa",
+        "precio": 250.99,
+        "clasificación": "Ropa",
+        "existencia": 5,
+        "existencia_minima": 1,
+        "existencia_maxima": 10
+      },
+      {
+        "clave": "73",
+        "descripcion": "Playera",
+        "precio": 134.99,
+        "clasificación": "Ropa",
+        "existencia": 2,
+        "existencia_minima": 1,
+        "existencia_maxima": 15
+      },
+      {
+        "clave": "74",
+        "descripcion": "Mangalarga",
+        "precio": 299.99,
+        "clasificación": "Ropa",
+        "existencia": 7,
+        "existencia_minima": 1,
+        "existencia_maxima": 10
+      },
+      {
+        "clave": "75",
+        "descripcion": "Pantalonera",
+        "precio": 269.99,
+        "clasificación": "Ropa",
+        "existencia": 3,
+        "existencia_minima": 1,
+        "existencia_maxima": 12
+      },
+      {
+        "clave": "76",
+        "descripcion": "Pantalon",
+        "precio": 349.99,
+        "clasificación": "Ropa",
+        "existencia": 2,
+        "existencia_minima": 1,
+        "existencia_maxima": 7
+      },
+      {
+        "clave": "77",
+        "descripcion": "Tenis",
+        "precio": 320.00,
+        "clasificación": "Ropa",
+        "existencia": 5,
+        "existencia_minima": 1,
+        "existencia_maxima": 6
+      },
+      {
+        "clave": "78",
+        "descripcion": "Zapatos",
+        "precio": 330.00,
+        "clasificación": "Ropa",
+        "existencia": 3,
+        "existencia_minima": 1,
+        "existencia_maxima": 6
+      },
+      {
+        "clave": "79",
+        "descripcion": "Bufanda",
+        "precio": 130.50,
+        "clasificación": "Ropa",
+        "existencia": 2,
+        "existencia_minima": 1,
+        "existencia_maxima": 6
+      },
+      {
+        "clave": "80",
+        "descripcion": "Gorra",
+        "precio": 99.99,
+        "clasificación": "Ropa",
+        "existencia": 2,
+        "existencia_minima": 1,
+        "existencia_maxima": 5
+      }
+  ]
+  
